@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vivek123eq2858  Vivek Sharma
-- 👀 I’m interested in Building Applications
+- 👀 I’m interested in Building AI Based Applications
 - 🌱 I’m currently learning in last year of Computer Science
-- 💞️ I’m looking to collaborate on mediGo project
+- 💞️ I’m looking to collaborate on StudyMate AI project
 - 📫 How to reach me vivekas749@gmail.com / +91 9404377683
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
